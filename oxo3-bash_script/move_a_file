@@ -1,0 +1,4 @@
+#!/bin/bash
+vim ginues
+mv ginues oxo3-bash-script					
+
